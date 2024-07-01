@@ -71,7 +71,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/22550201?v=4"
     />
     <p>&nbsp&nbsp&nbspGenivan Souza<br>
     &nbsp&nbsp&nbsp
@@ -88,4 +88,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Genivan Souza](https://github.com/genivanss)
